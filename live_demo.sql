@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50553
 File Encoding         : 65001
 
-Date: 2017-03-29 09:32:34
+Date: 2017-04-07 16:03:08
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -64,9 +64,8 @@ CREATE TABLE `live_data` (
 -- Records of live_data
 -- ----------------------------
 INSERT INTO `live_data` VALUES ('15', '191146937880438460', null, 'bshshshvv', 'test4', null, null, null, '', '0', '0', '0', '0', null, null, '0000-00-00 00:00:00', '58da1665f8bc7211f09e5699', null);
-INSERT INTO `live_data` VALUES ('16', '638079348364314100', null, '哦护发素', 'test5', null, null, null, '', '1', '0', '0', '0', null, null, '0000-00-00 00:00:00', '58da1381f8bc7211f09e5685', null);
+INSERT INTO `live_data` VALUES ('16', '363263305653145150', null, '的乖乖的', 'test5', null, null, null, '', '0', '0', '0', '0', null, null, '0000-00-00 00:00:00', '58db5e1c186b3209e3035caa', null);
 INSERT INTO `live_data` VALUES ('20', '317818257176937500', null, '反方向下', 'test7', null, null, null, '', '0', '0', '0', '0', null, null, '0000-00-00 00:00:00', '58da151ef8bc7211f09e568f', null);
-INSERT INTO `live_data` VALUES ('777', null, null, '', null, null, null, null, '', '0', '0', '0', '0', null, null, '0000-00-00 00:00:00', null, null);
 
 -- ----------------------------
 -- Table structure for tape_data
